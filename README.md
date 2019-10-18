@@ -22,7 +22,7 @@ Finalement, il faut régler correctement les propriétés du projet pour que le 
 
 Il ne faut pas oublier d'ajouter la vidéo à manipuler au bon endroit, pour cet exemple se sera le disque C:/ mais il peut être n'importe où dans l'ordinateur
 
-![Screenshot #6](https://github.com/lucazzzzz/Lab3/blob/master/Images/ExampleAVI.JPG)
+![Screenshot #6](https://github.com/lucazzzzz/Lab3/blob/master/Images/ExampleAVI.jpg)
 
 ## Configuration Python
 
