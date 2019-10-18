@@ -8,15 +8,15 @@ Pour commencer, il faut tout d'abord créer un projet VisualStudio en C++ dans l
 
 Ensuite, il faut ajouter tous les fichiers d'en-tête et tous les fichiers sources au projet:
 
-![Screenshot #2](https://github.com/lucazzzzz/Lab3/blob/master/Images/AjouterFichiersdeGit.JPG)
+![Screenshot #2](https://github.com/lucazzzzz/Lab3/blob/master/Images/AjouterFichiersdeGit.jpg)
 
 Finalement, il faut régler correctement les propriétés du projet pour que le code fonctionne! Voici 3 images qui illustrent toutes les librairies à ajouter et toutes les configurations à changer sur VisualStudio (ne pas oublier de changer les options de configuration pour Release et les options de plateforme pour x64):
 
-![Screenshot #3](https://github.com/lucazzzzz/Lab3/blob/master/Images/ProprietesProjetLib.JPG)
+![Screenshot #3](https://github.com/lucazzzzz/Lab3/blob/master/Images/ProprietesProjetLib.jpg)
 
-![Screenshot #4](https://github.com/lucazzzzz/Lab3/blob/master/Images/LibrairiePython.JPG)
+![Screenshot #4](https://github.com/lucazzzzz/Lab3/blob/master/Images/LibrairiePython.jpg)
 
-![Screenshot #5](https://github.com/lucazzzzz/Lab3/blob/master/Images/LibrairieDirectShow.JPG)
+![Screenshot #5](https://github.com/lucazzzzz/Lab3/blob/master/Images/LibrairieDirectShow.jpg)
 
 ## Ajouter la vidéo sur le C:/
 
