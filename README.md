@@ -36,7 +36,7 @@ Maintenant il faut créer l'environnement virtuel pour exécuter le fichier vide
 
 ![Screenshot #9](https://github.com/lucazzzzz/Lab3/blob/master/Images/CommandesVENV.JPG)
 
-La dernière commande "python videoplayer.py" va exécuter le code et l'interface tkinter vas apparaître. Notre code a été écrit en fonction que l'utilisateur appuie sur le boutton "Search File" en premier, si un autre boutton est appuyé avant le logiciel ne fonctionne pas. Lorsque l'utilisateur appuye sur le boutton "Search File" un fenêtre apparait et demande où aller chercher le fichier "Example.AVI", dans notre cas ce sera dans le disque C:/ 
+La dernière commande "python videoplayer.py" va exécuter le code et l'interface tkinter vas apparaître. Notre code a été écrit en fonction que l'utilisateur appuie sur le boutton "Search File" en premier, si un autre boutton est appuyé avant le logiciel ne fonctionne pas. Lorsque l'utilisateur appuye sur le boutton "Search File" une fenêtre apparait et demande où aller chercher le fichier "Example.AVI", dans notre cas ce sera dans le disque C:/ 
 
 ![Screenshot #10](https://github.com/lucazzzzz/Lab3/blob/master/Images/SearchFileExampleAVI.JPG)
 
